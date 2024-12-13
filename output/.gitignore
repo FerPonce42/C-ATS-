@@ -1,1 +1,8 @@
+
 *.exe
+
+
+.vscode/
+
+
+output/
